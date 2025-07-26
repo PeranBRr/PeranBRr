@@ -32,18 +32,30 @@
 
 ###
 
+<h2 align="left">Current Courses</h2>
+
+###
+
+<p align="left">
+  • CS50 Cybersecurity (Harvard)<br>
+  • Cisco Hardware Fundamentals<br>
+  • Cisco Network Basics
+</p>
+
+###
+
 <h2 align="left">Connect with me</h2>
 
 ###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/pedro-henrique-z-nieve/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="linkedin logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:pedronieve71@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="gmail logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/pedro170k/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" alt="instagram logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40" alt="instagram logo"  />
   </a>
 </div>
