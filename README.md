@@ -20,7 +20,6 @@
 
 <p align="left">
   • CS50 Cybersecurity (Harvard)<br>
-  • Cisco Hardware Fundamentals<br>
   • Cisco Network Basics
 </p>
 
