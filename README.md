@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Turning coffee into code since 2022<br>📚 Currently learning Java and web development<br>🎲 Fun fact: My programming journey began by modding game files</p>
+<p align="left">✨ Turning coffee into code since 2022<br>📚 Currently learning Python and C++ <br>🎲 Fun fact: My programming journey began by modding game files</p>
 
 ###
 
